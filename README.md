@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 **About Me — (Anime Cyber Theme)**
+## 🧠 About Me 
 ✨ I’m a Data Science student at **The University of Sheffield**, exploring the frontier of **LLMs, RAG systems, agentic AI, and multi-agent workflows**.  
 🌙 My work blends **clean engineering** with the smooth, minimal aesthetic often seen in **anime UI themes** — dark palettes, neon accents, precision, and clarity.  
 🧩 I enjoy designing **fast, scalable, and thoughtful AI systems** that solve real-world problems.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ **Tech Stack — (Dark Anime UI Style)**
+## 🛠️ Tech Stack
 
 ### 🔹 **Core ML / AI**
 <p align="center">
@@ -75,14 +75,11 @@
 
 ---
 
-## 🔗 **Connect With Me**
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-ghadigaonkar-2bb022231/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/>
-  </a>
-  <a href="https://www.kaggle.com/vedant0ghadi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" height="45"/>
   </a>
   <a href="https://www.instagram.com/ved_nt_007?igsh=MXJicWExeHB0ejl1Zg==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/>

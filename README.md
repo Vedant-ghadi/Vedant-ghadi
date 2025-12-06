@@ -74,7 +74,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vedant-ghadigaonkar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
   <a href="https://kaggle.com/vedantghadi" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle&theme=dark" height="45"/></a>
-  <a href="https://instagram.com/ved_nt_007" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/></a>
+  <a href="https://www.instagram.com/ved_nt_007?igsh=MXJicWExeHB0ejl1Zg==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/></a>
   <a href="mailto:vedant.ghadi587@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
 </p>
 

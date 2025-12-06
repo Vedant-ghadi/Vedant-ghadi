@@ -63,7 +63,7 @@
 
 ---
 
-## 🌌 **GitHub Stats — (Tokyo Night Anime Theme)**
+## 🌌 GitHub Stats 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedant-ghadi&show_icons=true&theme=tokyonight&border_radius=12"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-ghadi&layout=compact&theme=tokyonight&border_radius=12"/>

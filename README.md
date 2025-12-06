@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Vedant%20Ghadigaonkar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**Vedant-ghadi/Vedant-ghadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Anime Cyber Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="220">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center" style="color:#cfcfcf;">
+  Data Science · AI/ML Engineer · LLMs · Agentic AI · RAG Systems
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&color=8A63D2&lines=Creating+data-driven+intelligent+systems.;Data+Science+student+at+The+University+of+Sheffield.;LLM+developer+%7C+NLP+%7C+RAG+%7C+Multi-Agent+AI.;Always+learning.+Always+building."/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedant-ghadi&label=Profile%20Views&color=gray&style=flat-square"/>
+</p>
+
+---
+
+## 🧠 About Me 
+✨ I’m a Data Science student at **The University of Sheffield**, exploring the frontier of **LLMs, RAG systems, agentic AI, and multi-agent workflows**.  
+🌙 My work blends **clean engineering** with the smooth, minimal aesthetic often seen in **anime UI themes** — dark palettes, neon accents, precision, and clarity.  
+🧩 I enjoy designing **fast, scalable, and thoughtful AI systems** that solve real-world problems.  
+⚡ I believe in constant iteration — learning, experimenting, refining, improving.  
+📡 Currently exploring advanced NLP pipelines, embeddings, retrieval systems, and high-performance inference.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 **Core ML / AI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" height="70"/>
+</p>
+
+### 🔹 **Backend & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,linux&theme=dark" height="70"/>
+</p>
+
+### 🔹 **Databases & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode&theme=dark" height="70"/>
+</p>
+
+### 🔹 **AI / LLM Ecosystem**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huggingface/brand/main/huggingface_logo.svg" height="50" alt="HuggingFace" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" height="50" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" height="50" alt="SAS" />
+</p>
+
+---
+
+## 🌌 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedant-ghadi&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-ghadi&layout=compact&theme=tokyonight&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedant-ghadi&theme=tokyonight&border_radius=12" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vedant-ghadigaonkar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
+  <a href="https://kaggle.com/vedantghadi" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle&theme=dark" height="45"/></a>
+  <a href="https://instagram.com/ved_nt_007" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/></a>
+  <a href="mailto:vedant.ghadi587@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=150&section=footer" />
+</p>

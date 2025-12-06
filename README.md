@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me 
+## 🧠 **About Me — (Anime Cyber Theme)**
 ✨ I’m a Data Science student at **The University of Sheffield**, exploring the frontier of **LLMs, RAG systems, agentic AI, and multi-agent workflows**.  
 🌙 My work blends **clean engineering** with the smooth, minimal aesthetic often seen in **anime UI themes** — dark palettes, neon accents, precision, and clarity.  
 🧩 I enjoy designing **fast, scalable, and thoughtful AI systems** that solve real-world problems.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack — (Dark Anime UI Style)**
 
 ### 🔹 **Core ML / AI**
 <p align="center">
@@ -50,14 +50,20 @@
 
 ### 🔹 **AI / LLM Ecosystem**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huggingface/brand/main/huggingface_logo.svg" height="50" alt="HuggingFace" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" height="50" alt="LangChain" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" height="50" alt="SAS" />
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Hugging_Face_logo.svg" height="50" alt="HuggingFace" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/logo/langchain-logo-wordmark.svg" height="50" alt="LangChain" />
+  </a>
+  <a href="https://www.sas.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" height="50" alt="SAS" />
+  </a>
 </p>
 
 ---
 
-## 🌌 GitHub Stats
+## 🌌 **GitHub Stats — (Tokyo Night Anime Theme)**
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedant-ghadi&show_icons=true&theme=tokyonight&border_radius=12"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-ghadi&layout=compact&theme=tokyonight&border_radius=12"/>
@@ -69,13 +75,21 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 **Connect With Me**
 
 <p align="center">
-  <a href="https://linkedin.com/in/vedant-ghadigaonkar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
-  <a href="https://kaggle.com/vedantghadi" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle&theme=dark" height="45"/></a>
-  <a href="https://www.instagram.com/ved_nt_007?igsh=MXJicWExeHB0ejl1Zg==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/></a>
-  <a href="mailto:vedant.ghadi587@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
+  <a href="https://www.linkedin.com/in/vedant-ghadigaonkar-2bb022231/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/>
+  </a>
+  <a href="https://www.kaggle.com/vedant0ghadi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" height="45"/>
+  </a>
+  <a href="https://www.instagram.com/ved_nt_007?igsh=MXJicWExeHB0ejl1Zg==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/>
+  </a>
+  <a href="mailto:vedant.ghadi587@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>
+  </a>
 </p>
 
 ---

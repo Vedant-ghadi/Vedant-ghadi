@@ -24,7 +24,7 @@
 
 ## 🧠 About Me 
 ✨ I’m a Data Science student at **The University of Sheffield**, exploring the frontier of **LLMs, RAG systems, agentic AI, and multi-agent workflows**.  
-🌙 My work blends **clean engineering** with the smooth, minimal aesthetic often seen in **anime UI themes** — dark palettes, neon accents, precision, and clarity.  
+🌙 My work blends **clean engineering** with the smooth, minimal aesthetic  precision, and clarity.  
 🧩 I enjoy designing **fast, scalable, and thoughtful AI systems** that solve real-world problems.  
 ⚡ I believe in constant iteration — learning, experimenting, refining, improving.  
 📡 Currently exploring advanced NLP pipelines, embeddings, retrieval systems, and high-performance inference.
